@@ -1,0 +1,42 @@
+.big_container{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background-color: rgb(91, 239, 175);
+   width: 500px;
+    height:600px;
+    border-radius: 9%;
+    padding-top: 10px;
+}
+.listapp{
+     font-style: italic; 
+     font-size: xx-large;
+
+}
+.addedperson{
+    width: 200px;
+    height: 45px;
+    background-color: rgba(185, 228, 138, 0.778);
+    border-radius: 8%;
+
+}
+.personinput{
+    width: 200px;
+    height: 45px;
+    background-color: rgba(185, 228, 138, 0.778);
+    border-radius: 8%;
+}
+.person{
+    padding-left:35%;
+}
